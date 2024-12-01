@@ -1,2 +1,2 @@
 # TAKE_145204_2023
-Repository for Technologies for Enterprise Applications
+Ćwiczenia realizowane w ramach przedmiotu Zaawansowane technologie przetwarzania danych.
